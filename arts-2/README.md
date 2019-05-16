@@ -5,25 +5,25 @@
 class Solution {
     public boolean isValid(String s) {
         Stack stack = new Stack<Character>();
-		Map<Character, Character> mappers = new HashMap<>(3);
-		mappers.put('{', '}');
-		mappers.put('[', ']');
-		mappers.put('(', ')');
-		for (int i = 0; i < s.length(); i++) {
-			char c = s.charAt(i);
-			if ("{[(".indexOf(c) != -1) {
-				stack.push(c);
-			} else {
-                if(stack.isEmpty()){
-                    return false;
-                }
-                char pop =  mappers.get(stack.pop());
-                if(pop != c){
-                    return false;
-                }
-			}
+	Map<Character, Character> mappers = new HashMap<>(3);
+	mappers.put('{', '}');
+	mappers.put('[', ']');
+	mappers.put('(', ')');
+	for (int i = 0; i < s.length(); i++) {
+		char c = s.charAt(i);
+		if ("{[(".indexOf(c) != -1) {
+			stack.push(c);
+		} else {
+	if(stack.isEmpty()){
+	    return false;
+	}
+	char pop =  mappers.get(stack.pop());
+	if(pop != c){
+	    return false;
+	}
 		}
-		return stack.isEmpty();
+	}
+	return stack.isEmpty();
     }
 }
 ```

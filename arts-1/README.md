@@ -1,4 +1,4 @@
-### Algorithm
+# Algorithm
 > https://leetcode.com/problems/find-common-characters/
 
 自己的解题思路：
@@ -72,7 +72,7 @@ class Solution {
 }
 ```
 
-### Review
+# Review
 [Request’s Past, Present and Future](https://github.com/request/request/issues/3142)
 
 request一开始占用很大的市场。
@@ -80,8 +80,8 @@ request一开始占用很大的市场。
 当版本改动越来越大且无法向下兼容时，作者考虑停止维护，给没有历史包袱的新框架让路。
 
 
-### Tips
+# Tips
 [linux vim用法](./vim.md)
 
-### Share
+# Share
 [分布式事务](./distributed_transaction.md)

@@ -71,7 +71,7 @@ https://github.com/haymaicc/idea-keymap/blob/master/keymap-windows.md
 面向对象编程对程序控制权的间接转移进行了限制和规范。
 
 ### 封装
-很难说封装是面向对象编程的必要条件，事实上，很多编程语言对封装性没有强制性要求（ python , Smalltalk , Javascript , lua , Ruby ）。
+很难说封装是面向对象编程的必要条件，事实上，很多面向对象编程语言对封装性没有强制性要求（ python , Smalltalk , Javascript , lua , Ruby ）。
 
 面向对象确实要求程序员尽量避免破坏数据的封装性，但事实上那些声称自己提供面向对象编程的语言，相对于 C 这种完美封装的语言，其封装性还被削弱了。
 

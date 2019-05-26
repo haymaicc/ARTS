@@ -107,12 +107,12 @@ grep 0x7fb6  stack.log -a3
 ```
 grep RUNNABLE stack.log  -a1   
 ```
-![image](img/1364394978_1570.jpg)
+![image](https://github.com/aalansehaiyang/technology-talk/raw/master/ops/img/1364394978_1570.jpg)
 
 ```
 less a.log |awk '{FS="java.lang.Thread.State:";print $2}'|sort |uniq -c |sort -nr  
 ```
-![image](img/20130812130234781.jpeg)
+![image](https://github.com/aalansehaiyang/technology-talk/raw/master/ops/img/20130812130234781.jpeg)
 
 
 7、查看当前jvm内存各堆区的占比

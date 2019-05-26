@@ -33,7 +33,7 @@ public int removeDuplicates(int[] nums) {
     * PaaS 提供测试和调试的工具
     * Serverless 不能提供完整的构建和测试环境
 * 边缘计算
-    * Serverless 可以事先边缘计算
+    * Serverless 可以实现边缘计算
     * PaaS 底层还是依赖 IaaS，本质上还是仅在指定的机器运行，不支持边缘计算。
 
 # Tips

@@ -157,6 +157,7 @@ Scrum 不能做什么:
 1. 因为发布周期缩短，团队没有能力保证作出的每一个决定都正确，很多开销都必须花在试错上；
 2. 快速发布实际上导致 Scrum 团队的抗风险能力弱于瀑布模型团队，因为一个人的离职或病假都可能对单一功能的进度造成影响，不利于短期频繁发布。
 
+## others
 * 50% percent of our decisions are wrong. Fail fast, learn fast. （我们作出的决定中， 50% 都是错误的。早早失败，早早学习。）
 * No matter what you want to do, choose what is good for your team.（无论你选择做什么，选择对你的团队有利的事）
 

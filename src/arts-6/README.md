@@ -21,6 +21,12 @@ class Solution {
 }
 ```
 
+## 思路
+由于我们是想获取到最大的利润，我们的策略应该是低点买入，高点卖出。
+
+由于题目对于交易次数有限制，只能交易一次，因此问题的本质其实就是求相邻波峰浪谷的差值的最大值。
+![](https://github.com/azl397985856/leetcode/raw/master/assets/problems/121.best-time-to-buy-and-sell-stock.png)
+
 # Review
 > http://highscalability.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html
 

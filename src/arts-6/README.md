@@ -187,7 +187,7 @@ Splitter.on(',')
 
 
 # Share
-> https://github.com/aalansehaiyang/technology-talk/blob/master/system-architecture/%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.md
+> [架构思想](https://github.com/aalansehaiyang/technology-talk/blob/master/system-architecture/%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.md)
 
 ## 架构思想
 

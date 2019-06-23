@@ -16,6 +16,6 @@ ARTS是由[左耳朵耗子](http://weibo.com/haoel?s=6cm7D0)在其专栏[左耳�
 # 打卡
 
 ## 2019
-**六月**: [第 1 期](./src/arts-5/README.md) | [第 2 期](./src/arts-6/README.md):high_brightness:
+**六月**: [第 1 期](./src/arts-5/README.md) | [第 2 期](./src/arts-6/README.md) | [第 3 期](./src/arts-7/README.md) :high_brightness:
 
 **五月**: [第 1 期](./src/arts-1/README.md) | [第 2 期](./src/arts-2/README.md) | [第 3 期](./src/arts-3/README.md) | [第 4 期](./src/arts-4/README.md)

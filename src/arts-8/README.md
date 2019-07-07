@@ -32,6 +32,14 @@ class MinStack {
 # Review
 > https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/
 
+## gRPC
+
+### 清晰的接口格式
+.proto 文件定义接口格式（其实也没有比rest更清晰吧？）
+
+### 对流的支持
+不需要轮训，这是一个优势
+
 
 # Tips
 > https://github.com/aalansehaiyang/technology-talk/blob/master/open-source-framework/commons-lang3.md

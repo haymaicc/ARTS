@@ -125,7 +125,7 @@ Kafka集群会保留所有的消息，无论其被消费与否。两种策略删
 
 
 # Share
-> https://github.com/F-happy/RenZhengfei/blob/master/1995/19951226_%E7%9B%AE%E5%89%8D%E6%88%91%E4%BB%AC%E7%9A%84%E5%BD%A2%E5%8A%BF%E5%92%8C%E4%BB%BB%E5%8A%A1.md
+> [任正非：目前我们的形势和任务](https://github.com/F-happy/RenZhengfei/blob/master/1995/19951226_%E7%9B%AE%E5%89%8D%E6%88%91%E4%BB%AC%E7%9A%84%E5%BD%A2%E5%8A%BF%E5%92%8C%E4%BB%BB%E5%8A%A1.md)
 
 ## 关于改革初期的民族复兴
 改革初期不断地用优惠政策吸引外资，不断地扩大开放，但是外资是来赚钱的，核心技术不会兜底，中国要发展需自强。

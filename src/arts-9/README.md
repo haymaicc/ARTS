@@ -4,19 +4,19 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int index1 = 1,index2 = numbers.length;
-		while (index1 < index2) {
+	while (index1 < index2) {
             int origin = numbers[index1-1] + numbers[index2-1];
-			if (origin > target) {
-				index2--;
-			}
-			else if (origin < target) {
-                index1++;
-			}
-			else {
-                return new int[]{index1,index2};
-            }
+		if (origin > target) {
+			index2--;
 		}
-    return new int[]{index1,index2};
+		else if (origin < target) {
+			index1++;
+		}
+		else {
+			return new int[]{index1,index2};
+    		}
+	}
+    	return new int[]{index1,index2};
     }
 }
 ```

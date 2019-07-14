@@ -10,7 +10,7 @@ ARTS是由[左耳朵耗子](http://weibo.com/haoel?s=6cm7D0)在其专栏[左耳�
 # 针对自己的ARTS
 * Algorithm：[leetcode](https://github.com/azl397985856/leetcode)
 * Review：[weekly](https://github.com/ruanyf/weekly)
-* Tips：[from_coder_to_expert](https://github.com/haymaicc/from_coder_to_expert)
+* Tips：[from_coder_to_expert](https://github.com/haymaicc/from_coder_to_expert)，[technology-talk](https://github.com/aalansehaiyang/technology-talk)
 * Share：最近在读的书籍内容
 
 # 打卡

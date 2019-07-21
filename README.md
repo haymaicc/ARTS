@@ -10,13 +10,13 @@ ARTS是由[左耳朵耗子](http://weibo.com/haoel?s=6cm7D0)在其专栏[左耳�
 # 针对自己的ARTS
 * Algorithm：[leetcode](https://github.com/azl397985856/leetcode)
 * Review：[weekly](https://github.com/ruanyf/weekly)
-* Tips：[from_coder_to_expert](https://github.com/haymaicc/from_coder_to_expert)，[technology-talk](https://github.com/aalansehaiyang/technology-talk)，[gold-miner](https://github.com/xitu/gold-miner)
+* Tips：[from_coder_to_expert](https://github.com/haymaicc/from_coder_to_expert)，[gold-miner](https://github.com/xitu/gold-miner)
 * Share：最近阅读内容
 
 # 打卡
 
 ## 2019
-**七月**: [第 1 期](src/arts-09/README.md) | [第 2 期](./src/arts-10/README.md):high_brightness:
+**七月**: [第 1 期](src/arts-09/README.md) | [第 2 期](./src/arts-10/README.md) | [第 2 期](./src/arts-11/README.md):high_brightness:
 
 **六月**: [第 1 期](src/arts-05/README.md) | [第 2 期](src/arts-06/README.md) | [第 3 期](src/arts-07/README.md) | [第 4 期](src/arts-08/README.md)
 

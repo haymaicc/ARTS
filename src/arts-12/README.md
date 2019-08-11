@@ -370,7 +370,7 @@ private boolean addWorker(Runnable firstTask, boolean core) {
 
 ```
 
-注意一下这里的**t.start()**这个语句，启动时会调用Worker类中的run方法，Worker本身实现了Runnable接口，所以一个Worker类型的对象也是一个线程。
+注意一下这里的 **t.start()** 这个语句，启动时会调用Worker类中的run方法，Worker本身实现了Runnable接口，所以一个Worker类型的对象也是一个线程。
 
 ### Worker类
 线程池中的每一个线程被封装成一个Worker对象，ThreadPool维护的其实就是一组Worker对象，看一下Worker的定义：

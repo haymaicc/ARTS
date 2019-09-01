@@ -4,8 +4,16 @@
 # Review
 > https://www.neobub.com/maybe/post/modes_of_leadership
 
+领导者的三种模式。
+
+模式一：“这就是我想要的，你按照我说的做。”
+
+模式二：“这就是我想要的，你自己想如何去做。”
+
+模式三：“让我们一起弄清楚我们能做些什么。”
 
 # Tips
+
 
 # Share
 > [如何管理上级](https://time.geekbang.org/column/article/77752)
